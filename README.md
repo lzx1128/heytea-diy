@@ -21,9 +21,9 @@
 或者访问 https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FSsoutnn%2Fheytea-diy
 
 ## 🚀 其他快速部署方式
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/LibreSpark/LibreTV)  
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/Ssoutnn/heytea-diy)  
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/LibreSpark/LibreTV)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/Ssoutnn/heytea-diy)
 
 ## 🚨 重要声明
 
