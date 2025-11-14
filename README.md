@@ -12,6 +12,9 @@
 
 开发者不对因使用本软件而产生的任何损失或法律责任负责。
 
+## ⏬ 本地包下载
+前往 [发布页release](https://github.com/Ssoutnn/heytea-diy/releases/tag/beta) 下载对应文件运行
+
 ## 🚀 在线运行
 可以直接在 GitHub 上运行可视化版本( 对网络连通性要求很高 )
 
